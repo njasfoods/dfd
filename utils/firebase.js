@@ -22,8 +22,6 @@ import { getStorage } from "firebase/storage";
 // 		});
 // 	}
 // };
-// console.log(verifyIdToken);
->>>>>>> 0dd51c307f408d3d316f39aa59d8df3247144d12
 
 const firebaseConfig = {
 	apiKey: "AIzaSyBTuu1Q4OTd-4GYY3nKRL9-ODgjxSxZF00",
